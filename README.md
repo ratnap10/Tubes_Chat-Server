@@ -5,7 +5,7 @@ Selamat datang di **Chat-Server**, sebuah program yang dirancang untuk memenuhi 
 ---
 
 ## ✨ Fitur Utama
-- **Multi-client Support**: Mendukung lebih dari 6 klien secara simultan.
+- **Multi-client Support**: Mendukung 10 klien secara simultan.
 - **Keamanan Terjamin**: Data komunikasi dilindungi untuk mencegah kebocoran.
 - **Kinerja Optimal**: Menggunakan socket programming untuk koneksi yang stabil dan efisien.
 - Dibangun dengan bahasa C yang ringan dan cepat.
