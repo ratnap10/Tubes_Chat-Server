@@ -1,6 +1,6 @@
 # Chat-Server Program
 
-Selamat datang di **Chat-Server**, sebuah program yang dirancang untuk memenuhi tugas besar mata kuliah *Praktikum Sistem Informasi*. Program ini memungkinkan komunikasi real-time antar beberapa klien dengan fitur **multi-client**, performa yang andal, dan keamanan data yang terjamin.
+Selamat datang di **Chat-Server**, sebuah program yang dirancang untuk memenuhi tugas besar mata kuliah *Praktikum Sistem Operasi*. Program ini memungkinkan komunikasi real-time antar beberapa klien dengan fitur **multi-client**, performa yang andal, dan keamanan data yang terjamin.
 
 ---
 
